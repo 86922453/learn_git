@@ -1,5 +1,6 @@
 hello git version2
 #edit:fangzhihui
+#edit:master1231321312
 ---------------------------------
 git config --global user.name fzh
 git config --global user.email ahwfgabn@qq.com
