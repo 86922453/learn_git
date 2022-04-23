@@ -1,1 +1,14 @@
 hello git version2
+
+---------------------------------
+git config --global user.name fzh
+git config --global user.email ahwfgabn@qq.com
+git init    #初始化工作区
+git status
+git add "learn_git,txt" #添加到暂存区
+git commit -m "log" learn_git,txt #更新版本
+git reset --hard 
+git reflog
+git log
+
+
